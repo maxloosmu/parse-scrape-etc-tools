@@ -1,0 +1,3 @@
+- source ~/.bashrc
+    - if no venv, then virtualenv venv
+- source venv/bin/activate

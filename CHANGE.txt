@@ -1,0 +1,1 @@
+change the browser closure, such that the browser is open until all IDs have been entered and deleted sequentially.  setup ID enter and delete capability.
